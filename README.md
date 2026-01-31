@@ -1,7 +1,7 @@
 
   # AI Service Page
 
-  This is a code bundle for AI Service Page. The original project is available at ai-service-page-lyart.vercel.app
+  This is a code bundle for AI Service Page. The original project is available at https://ai-service-page-lyart.vercel.app/
 
   ## Running the code
 
