@@ -1,7 +1,7 @@
 
   # AI Service Page
 
-  This is a code bundle for AI Service Page. The original project is available at https://github.com/PurviBhedaAI
+  This is a code bundle for AI Service Page. The original project is available at https://github.com/PurviBheda
 
   ## Running the code
 
